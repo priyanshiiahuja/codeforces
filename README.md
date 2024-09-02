@@ -12,7 +12,7 @@ Welcome to my repository where I share solutions to various Codeforces problems.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/priyanshiiahuja/codeforces.git
    
 2. **Navigate to the Problem Solution:**
 Locate the file corresponding to the problem you are interested in (e.g., A_Beautiful_Matrix.cpp).
